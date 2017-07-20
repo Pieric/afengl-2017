@@ -6,3 +6,5 @@ Le projet initial s'est arrêté fin 2014 avec la livraison des versions beta de
 
 Un troisième site fait la synthèse des deux précédents :
 - http://lingua.normes.eu
+
+Voir si le site linguasphere est toujours disponible.
